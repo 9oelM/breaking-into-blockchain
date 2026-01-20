@@ -4,7 +4,7 @@
 
 ## 일반
 - [블록체인 개발자 취업 관련 자주 물어보는 질문 정리](https://9oelm.github.io/2025-07-25-breaking-into-blockchain-dev-career/) - [조엘](https://github.com/9oelm)
-- [신입을 위한 블록체인/Web3 마케팅 취업 가이드 A to Z](https://blog.naver.com/lariceorclaire/224077280859) - [클레연님](https://x.com/lariceorclaire)
+- [신입을 위한 블록체인/Web3 마케팅 취업 가이드 A to Z](https://blog.naver.com/lariceorclaire/224077280859) - [클레어님](https://x.com/lariceorclaire)
 
 ## 이력서
 ### 예시
