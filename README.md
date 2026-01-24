@@ -13,6 +13,7 @@
 - [클레어님](https://www.linkedin.com/in/lariceorclaire/) - Korea Community Lead, [Citrea](https://citrea.xyz/): [링크](https://blog.naver.com/lariceorclaire/223644953579)
 - [부식님](https://www.linkedin.com/in/boosik/) - Software Engineer, [Orca](https://www.orca.so/): [링크](https://drive.google.com/file/d/1zWx0Gn2lacWzLjlAYoLzCYJnRolMFQGR/view)
 - [영준님](https://www.linkedin.com/in/youngthejun/) - Software Engineer, [ReamLabs](https://reamlabs.com/) & Protocol Fellow, [Ethereum Protocol Fellowship](https://epf.wiki/#/wiki/epf): [링크](https://github.com/syjn99/resume)
+- [승준님](https://www.linkedin.com/in/seungjun5/) - Technical Writer Intern, [B-Harvest](https://bharvest.io/) & Based Advocate, [BASE KOREA (Daehan Base)](https://x.com/daehan_base): [링크](https://docs.google.com/document/d/1UfCtrsC49jU77KH7TwQQFjQkkNCU_sMCPX4sc4T49oo/edit?tab=t.0)
 
 ### 적는법
 - [미국인친구가 봐준 최종합격한 (영문이력서) 레쥬메, 커버레터 양식/샘플](https://blog.naver.com/lariceorclaire/223644953579) - [클레어님](https://www.linkedin.com/in/lariceorclaire/)
